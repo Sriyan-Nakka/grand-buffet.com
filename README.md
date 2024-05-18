@@ -1,2 +1,2 @@
-# grand-buffet.com
+# Grand Buffet
 My attempt at making a restaurant website
